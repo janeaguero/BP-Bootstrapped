@@ -1,0 +1,38 @@
+@charset "utf-8";
+/*CSS Document*/
+
+h1{
+	font-family:Georgia, Times, "Times New Roman", serif;
+	font-weight:700;
+	color:white;
+	font-size:2.5em;
+}
+
+h2{
+	font-family:Georgia, Times, "Times New Roman", serif;
+	color:#777;
+	font-size:1.75em;
+}
+
+body{
+	background:url('https://www.toptal.com/designers/subtlepatterns/patterns/darkness.png');
+}
+
+/*header*/
+
+header{
+	background:white;
+	border-radius:0 0 5px 5px;
+}
+
+#nav{
+	top:13px;
+}
+
+/*main*/
+
+#main-container{
+	background:pink;
+	margin-top:30px;
+	border-radius: 5px
+}
